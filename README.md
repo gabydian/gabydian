@@ -1,8 +1,8 @@
 ### Olá! Eu sou o GabyDian
 
 - 🔭 ainda não trabalho, procuro estágio
-- 🌱 estudo atualmente Java, JavaScript, tenho uma noção de HTML e CSS
-- 💬 Me pergunte sobre o que estou achando dessa ezperiência
+- 🌱 estudo atualmente Java, JavaScript, tenho uma noção de HTML e CSS e estou aprendendo inglês tbm
+- 💬 Me pergunte sobre o que estou achando dessa experiência
 - 😄 Pronouns: ele/dele
 
 <div>
