@@ -19,3 +19,10 @@
 
 
 </div>
+
+##
+<div>
+<a href="www.linkedin.com/in/gabriel-dian-de-oliveira-17b6001a5"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/GabyDian01"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://www.instagram.com/gabriel.oliveira2.4/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</div>
