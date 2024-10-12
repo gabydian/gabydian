@@ -2,7 +2,7 @@
 
 
 - 🔭 procuro minha primeira oportunidade de trabalho
-- 🌱 estudo atualmente Java, JavaScript, tenho uma noção de HTML e CSS e estou aprendendo inglês tbm
+- 🌱 estudo atualmente Java, JavaScript, tenho uma noção de HTML e CSS, banco de dados SQL e aprendendo inglês(atualmente no mível avançado)
 - 💬 Me pergunte sobre o que estou achando dessa experiência
 - 😄 Pronouns: ele/dele
 
