@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7FF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Dian!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7FF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+me+chamo+Gabriel+Dian!+Prazer+em+te+conhecer!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 
-- 🔭 ainda não trabalho, procuro estágio
+- 🔭 procuro minha primeira oportunidade de trabalho
 - 🌱 estudo atualmente Java, JavaScript, tenho uma noção de HTML e CSS e estou aprendendo inglês tbm
 - 💬 Me pergunte sobre o que estou achando dessa experiência
 - 😄 Pronouns: ele/dele
